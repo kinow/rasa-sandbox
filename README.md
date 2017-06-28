@@ -1,6 +1,6 @@
 # Rasa Sandbox
 
-A sanbbox for [Rasa NLU](https://github.com/RasaHQ/rasa_nlu).
+A sanbox for [Rasa NLU](https://github.com/RasaHQ/rasa_nlu).
 
 How to run the sample (or what I did):
 
